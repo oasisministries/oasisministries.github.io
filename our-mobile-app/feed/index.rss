@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>Comments on: Our Mobile App</title>
-	<atom:link href="https://oasisofhopechurch.aloevera.co.ke/our-mobile-app/feed/" rel="self" type="application/rss+xml" />
-	<link>https://oasisofhopechurch.aloevera.co.ke/our-mobile-app/</link>
+	<atom:link href="https://oasisministries.github.io/our-mobile-app/feed/" rel="self" type="application/rss+xml" />
+	<link>https://oasisministries.github.io/our-mobile-app/</link>
 	<description>Gather The Remnants</description>
 	<lastBuildDate>Mon, 18 Mar 2019 03:56:40 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>

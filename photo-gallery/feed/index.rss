@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>Comments on: Photo Gallery</title>
-	<atom:link href="https://oasisofhopechurch.aloevera.co.ke/photo-gallery/feed/" rel="self" type="application/rss+xml" />
-	<link>https://oasisofhopechurch.aloevera.co.ke/photo-gallery/</link>
+	<atom:link href="https://oasisministries.github.io/photo-gallery/feed/" rel="self" type="application/rss+xml" />
+	<link>https://oasisministries.github.io/photo-gallery/</link>
 	<description>Gather The Remnants</description>
 	<lastBuildDate>Mon, 18 Mar 2019 03:49:16 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
