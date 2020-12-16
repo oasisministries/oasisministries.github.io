@@ -1,1 +1,1 @@
-Oasis Ministries International
+Oasis Ministries
